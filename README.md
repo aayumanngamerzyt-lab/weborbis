@@ -2,11 +2,6 @@
 
 WebOrbis is a modern, mobile-first mapping application built with HTML, CSS, JavaScript, Leaflet, and OpenStreetMap.
 
-## Current Release
-
-- **Version:** Developer Preview 1
-- **Codename:** Mochi
-
 ## Features
 
 - 🗺️ Interactive map powered by OpenStreetMap
@@ -25,9 +20,7 @@ WebOrbis is a modern, mobile-first mapping application built with HTML, CSS, Jav
 - Leaflet.js
 - OpenStreetMap
 
-## Project Status
-
-**Developer Preview 1**
+## Notice
 
 WebOrbis is currently in active development. Features, performance, and stability will continue to improve in future releases.
 
