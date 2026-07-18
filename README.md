@@ -1,4 +1,4 @@
-# WebOrbis
+# WebOrbis (Archived)
 
 WebOrbis is a modern, mobile-first mapping application built with HTML, CSS, JavaScript, Leaflet, and OpenStreetMap.
 
